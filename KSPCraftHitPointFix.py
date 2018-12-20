@@ -1,11 +1,10 @@
 #Rocketing Racer
-#java12man@gmail.com
+#RocketingRacer@gmail.com
 #dec 18 2018
 #How To Use:
 #place script in folder of craft files to be fixed
 import os
 import glob
-import time
 def main():
     #partfilename = input("Name of part Reference file: ")
     dirName = 'fixed'
